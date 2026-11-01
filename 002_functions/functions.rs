@@ -1,7 +1,7 @@
 fn main(){
     //In fn. main you can call all fn.
     
-    greeting();// this is how you can call a functoin
+    greeting();// this is how you can call a function
     
     //here's arguments
     
