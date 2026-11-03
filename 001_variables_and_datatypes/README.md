@@ -8,18 +8,6 @@ I'm learning each concept step by step by writing code, testing it, and understa
 
 Status: 🚧 In Progress — This folder will grow as I learn more concepts.
 
-📂 Folder Structure
-
-File| Topic
-"01_variables.rs"| Variables and mutability
-"02_integer_types.rs"| Signed and unsigned integers
-"03_floating_point.rs"| "f32" and "f64"
-"04_boolean.rs"| Boolean values
-"05_char_and_string.rs"| Characters and strings
-"06_type_conversion.rs"| Type conversion and casting
-"07_constants.rs"| Constants using "const"
-
-Note: Files will be added and updated as I progress. The list above represents my planned structure.
 
 📚 Concepts Covered
 
